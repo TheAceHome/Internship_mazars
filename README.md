@@ -33,7 +33,7 @@ $ git clone https://github.com/TheAceHome/Internship_mazars.git
 
 2. Create a Python virtual environment named 'venv1' and activate it
 ```
-$ virtualenv venv1
+$ virtualenv venv
 ```
 ```
 $ source venv1/bin/activate
